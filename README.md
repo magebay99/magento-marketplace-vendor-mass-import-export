@@ -11,7 +11,7 @@ Read more [Magento 2 Marketplace](https://www.magebay.com/magento-multi-vendor-m
 - Support Multiple Store, Multiple Websites, Multi Language
 - Admin also can import products for vendors via file csv
 
-## Looing video for more detail:
+## Looking video for more detail:
 [![Magento Marketplace vendor mass import](https://img.youtube.com/vi/zqTd_0o9FVU/0.jpg)](https://www.youtube.com/watch?v=zqTd_0o9FVU)
 
 Don't hesitate to let me know if you have any further question. [Contact Us](https://www.magebay.com/contacts)
