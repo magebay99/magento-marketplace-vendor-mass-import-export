@@ -1,4 +1,4 @@
-# magento-marketplace-vendor-mass-import-export
+# Magento marketplace vendor mass import export extension
 Marketplace vendor mass import export Extension for Magento 2 is a plugin of Magebay Marketplace extension. This plugin allow the Vendor can easy to import bulk products to their seller account via file csv. Once admin review and approval these products then it will appear in your Marketplace website.
 
 Read more [Magento Marketplace Vendor Mass Import Export](https://www.magebay.com/magento-marketplace-mass-import-export)
